@@ -1,0 +1,25 @@
+body {
+	background-image: url(https://media.istockphoto.com/id/865457032/vector/abstract-futuristic-cyberspace-with-binary-code-matrix-background-with-digits-well-organized.jpg?s=612x612&w=0&k=20&c=IQcdedY8fn_DMq6nwc5MaHUBe0H0d5DPyibHR8J2usk=);
+	color: whitesmoke;
+	font-family: monospace;
+}
+
+.container {
+	background-color: seagreen;
+	color: whitesmoke;
+	margin-top: 40px;
+	padding: 10px;
+}
+
+
+.btn {
+	background-color: #90E0EF;
+	color: #03045E;
+	border: whitesmoke;
+	
+}
+
+a {
+	color: whitesmoke;
+	text-decoration: none;
+}
